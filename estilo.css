@@ -1,0 +1,146 @@
+body {
+    background:darkblue;
+}
+
+h1{
+    color:Black;
+    font-size: 36px;
+    position: relative;
+    text-align:right;
+}
+
+h2{
+    background-color:grey;
+    color: black;
+    position: relative;
+    font-size: 36px;
+    margin: 3px;
+    border-radius: 15px;
+    width: 250px;
+    left: 18px;
+    text-align:center;
+         
+    
+}
+
+
+p{
+    color: white;
+    position:relative;
+    top: 20 px;
+    
+}
+
+
+
+.contenedor{
+    background: linear-gradient(to bottom, white, black);
+    border-radius: 15px;
+    color:white;
+    
+    
+}
+
+.encabezado{
+    background: linear-gradient(to bottom, blue, white);
+    border-radius: 15px;
+    
+}
+
+.foto{
+    width: 200px;
+    border-radius: 30px;
+    position:relative;
+    top: 20 px;
+    
+}
+
+.fotografia{
+   text-align: center;
+    
+}
+
+.GitHub{
+    width: 70px;
+    position:relative;
+    top: 10 px;
+    font-size: 16px;
+
+    
+}
+
+.Neocities{
+    width: 200px;
+    position:relative;
+    top: 10 px;
+    font-size: 16px;
+
+    
+}
+
+.caja1
+{
+    display:flex;
+    flex-direction: row;
+    background-color: violet;
+    margin:25px;
+    padding: 50%;
+}
+
+.nombre
+{
+    text-align: center;
+    width:50%;
+    top: 50px;
+    width: 50%;
+
+}
+
+.foto
+{
+    margin: 25px;
+    border-radius: 360px;
+    text-align: right;
+
+}
+
+article
+{
+    background: linear-gradient(to bottom, white, black);
+    display:flex;
+    flex-direction:column;
+    width:300px;
+    border-radius: 1px;
+    border-style:solid;
+    text-align: center;
+    float:left;
+}
+
+.flex-container
+{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border: 10px;
+    margin: 30px;
+    
+}
+
+footer {
+background: linear-gradient(to bottom, blue, white);
+border-radius: 90px;
+display:flex;
+justify-content: space-around;
+    border: 10px black;
+
+}
+
+.texto article, p {
+    text-align: center;
+}
+
+.enlaces
+{
+    text-align: center;
+    box-shadow: inset 5px 5px 20px 5px #CCCCCC;
+}

@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+}
+
+h2
+{
+    color:#FFFFFF;
+    font: size 36px;
+}
+
+input {
+    border-radius: 25px;
+    background-color: blue;
+}
+.caja1{
+    background-color: white;
+    width: 398px;
+    height: 72px;
+    left: 18px;
+    top: 60px;
+
+}
+
+.caja2{
+    background-color: white;
+    width: 398px;
+    height: 72px;
+    left: 18px;
+    top: 60px;
+}
+
+
+header{
+    width: 428px;
+}
+.marca {
+    width: 100%;
+
+}
+
+.boton
+{
+    background-color: aquamarine;
+    border-radius: 25px;
+    color:#FFFFFF;
+    position: absolute;
+    width: 211px;
+    height: 72px;
+    left: 111px;
+    top: 644px;
+
+}
+
+.acceso
+{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
